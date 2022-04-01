@@ -21,7 +21,7 @@ To use this python file, make sure you have these following Software downloaded 
 ## How to use
 When all the Software is installed and updated proceed with the following steps.
 * Open "Python_Gruppenabgabe_1.py" with Visual Studio Code.
-* Run the file by pressing the <img width="34" alt="Button" src="https://raw.githubusercontent.com/idaxe/GDV_Sose2022/main/Button.png">  button.
+* Run the file by pressing the <img width="34" alt="Button" src="https://raw.githubusercontent.com/idaxe/GDV_Sose2022/main/Button.png">  button. <br>
 This Project will then display a optical illusion. Used in it are a background image with a gradient and three cutouts taken from the middle of the background. The first shape is positioned on the central left where the background is darker while the second shape is positioned on the central right where the background is lighter. Lastly, the third shape will moving around in a wavelike pattern to show that the first two shapes are the same exact color even though it might like it at first glance.
 * To exit the window, press "q"
 
