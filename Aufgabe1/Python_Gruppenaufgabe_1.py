@@ -31,6 +31,7 @@ def shape_path(t, scale, offset):
 timer = 0.0
 
 while True:
+    
     #Copies the image
     cimg = img.copy()
     #Draws the sampeled shape in the way of the defined path
